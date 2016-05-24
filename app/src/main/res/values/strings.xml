@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrimeraTareaC3</string>
+    <string name="form_nombre">Nombre Completo</string>>
+    <string name="form_telefono">Teléfono</string>
+    <string name="form_email">Correo Electrónico</string>
+    <string name="form_descontacto">Descripción Contacto</string>
+    <string name="descripcion_btn_editar">Editar</string>
+</resources>
